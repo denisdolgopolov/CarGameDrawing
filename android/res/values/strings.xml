@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawingCar</string>
+
+    <string name="eraser">Eraser</string>
+    <string name="brush">Brush</string>
+    <string name="finish">Finish</string>
+    <string name="start">Start</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="colorPicker">ColorPicker</string>
+
+</resources>
